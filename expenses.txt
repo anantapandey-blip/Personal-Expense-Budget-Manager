@@ -1,0 +1,62 @@
+
+*************Your all expenses***************
+Amount: 200 
+ Category: Skincare 
+ Description: Facewash------------------------------
+Amount: 1400 
+ Category: Food 
+ Description: Essentials------------------------------
+Amount: 9800 
+ Category: Ration 
+ Description: Monthly groceries------------------------------
+Amount: 346 
+ Category: Food 
+ Description: Lunch------------------------------
+Amount: 4500 
+ Category: Essentials 
+ Description: Personal care products------------------------------
+Amount: 5680 
+ Category: Essentials 
+ Description: Household essentials------------------------------
+Amount: 1400 
+ Category: Monthly Shopping 
+ Description: Clothes------------------------------
+Amount: 650 
+ Category: Personal Care 
+ Description: Haircut------------------------------
+Amount: 400 
+ Category: Entertainment 
+ Description: Coffee with friends------------------------------
+Amount: 900 
+ Category: Bills 
+ Description: Mobile recharge------------------------------
+Amount: 800 
+ Category: Entertainment 
+ Description: Movie and snacks------------------------------
+Amount: 1200 
+ Category: Education 
+ Description: Python course------------------------------
+Amount: 250 
+ Category: Transport 
+ Description: Metro fare------------------------------
+Amount: 2500 
+ Category: Education 
+ Description: Books------------------------------
+Amount: 600 
+ Category: Healthcare 
+ Description: Medicines------------------------------
+Amount: 500 
+ Category: Personal Care 
+ Description: Shampoo------------------------------
+Amount: 1500 
+ Category: Shopping 
+ Description: Shoes------------------------------
+Amount: 750 
+ Category: Transport 
+ Description: Cab fare------------------------------
+Amount: 300 
+ Category: Food 
+ Description: Breakfast------------------------------
+Amount: 2000 
+ Category: Bills 
+ Description: Electricity bill
